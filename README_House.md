@@ -74,7 +74,7 @@ london-housing-analysis/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/london-housing-analysis.git
+   git clone https://github.com/ManasDhotre/london-housing-analysis.git
    cd london-housing-analysis
    ```
 
@@ -96,8 +96,8 @@ london-housing-analysis/
 Aspiring Data Scientist | Python · Pandas · Data Analysis
 📍 Pune, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manas-dhotre)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ManasDhotre)
 
 ---
 
